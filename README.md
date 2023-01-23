@@ -26,9 +26,6 @@
         🖥️ Web Development <br> 
         🎨 UI/UX Development <br> 
         🧠 Machine Learning and AI <br> 
-        🔗 Blockchain/Crypto <br> 
-        🤖 IoT/Embedded <br> 
-        📉 Graphic Designing <br>
         🌐 Open source <br>
         😺 Git and Github <br>
     </ul>
