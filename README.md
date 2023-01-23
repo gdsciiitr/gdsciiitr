@@ -12,7 +12,7 @@
 
 <h2>📌 <ins>About Us</ins></h2>
 <p>
-    ⭐ We are an <b>open source community</b> dedicated for development across India. <br>
+    ⭐ We are an <b>open source community</b> dedicated for development. <br>
     ⭐ The main motive of our community is to <b>scale up your skills.</b> <br>
 </p>
 
