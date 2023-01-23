@@ -4,7 +4,7 @@
 🎉 Welcome to Google Developer Student Club - IIIT Ranchi 🎉
 </h3>
 
-<a href="https://gdsc.community.dev/indian-institute-of-information-technology-ranchi/">
+<a href="https://gdsc.community.dev/indian-institute-of-information-technology-ranchi/" target="_blank">
 <p align="center">
   <img src="https://img.shields.io/badge/Join%20Club-24a0ed?style=for-the-badge&logo=Join%20Club&logoColor=white" alt="Join GDSC IIIT Ranchi Club" />
 </p>
@@ -12,8 +12,7 @@
 
 <h2>📌 <ins>About Us</ins></h2>
 <p>
-    ⭐ We are an <b>open source community</b> dedicated for development. <br>
-    ⭐ The main motive of our community is to <b>scale up your skills.</b> <br>
+     The Google Developer Students Club at IIIT Ranchi is a community of tech enthusiasts and developers dedicated to learning and building projects with Google          technologies. We host workshops, hackathons, and guest lectures to help our members enhance their skills and knowledge in areas such as Android development,          Machine Learning, Flutter and Web Development.
 </p>
 
 
@@ -43,9 +42,7 @@
     <h3>🔥 <ins>EXCLUSIVE PERKS:</ins></h3>
     🚀 <b><ins>CAREER GROWTH</ins></b> <br>
     🚀 <b><ins>GLOBAL UPDATES</ins></b> <br>
-    🚀 <b><ins>STUDY GROUPS</ins></b> <br>
     🚀 <b><ins>SWAGS & GOODIES</ins></b> <br>
-    🚀 <b><ins>24/7 ACTIVE CHAT</ins></b> <br>
 </p>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
