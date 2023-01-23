@@ -12,7 +12,7 @@
 
 <h2>📌 <ins>About Us</ins></h2>
 <p>
-     The Google Developer Students Club at IIIT Ranchi is a community of tech enthusiasts and developers dedicated to learning and building projects with Google          technologies. We host workshops, hackathons, and guest lectures to help our members enhance their skills and knowledge in areas such as Android development,          Machine Learning, Flutter and Web Development.
+     The Google Developer Students Club at IIIT Ranchi is a community of tech enthusiasts and developers dedicated to learning and building projects with Google          technologies. We host workshops and guest lectures to help our members enhance their skills and knowledge in areas such as Android development,          Machine Learning, Flutter and Web Development.
 </p>
 
 
